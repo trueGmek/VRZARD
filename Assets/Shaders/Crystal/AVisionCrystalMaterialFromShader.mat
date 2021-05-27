@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: AVisionCrystalMaterialFromShader
+  m_Shader: {fileID: -6465566751694194690, guid: f7c620885dcfd7946bbd9d8b84a0c081,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Floats:
+    - Vector1_38ECBF8: 1
+    - Vector1_58805D20: 0.15
+    - Vector1_5E53B36B: 0.2
+    - Vector1_976E7603: 1
+    - Vector1_A3537A43: 1
+    - Vector1_B8AC508: 0.28
+    - Vector1_BB404504: 1
+    m_Colors:
+    - Color_45C164B6: {r: 0, g: 0.11642933, b: 1, a: 0}
+    - Color_5428C463: {r: 1, g: 0.1308883, b: 0, a: 0}
+    - Color_798DF1EB: {r: 0.11264196, g: 0.062477753, b: 0.33962262, a: 0}
+    - Color_AF73A616: {r: 1, g: 0.10015053, b: 0, a: 0}
+    - Color_E74A086D: {r: 0.15872431, g: 0, b: 1, a: 0}
+  m_BuildTextureStacks: []
